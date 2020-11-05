@@ -30,3 +30,5 @@ Werkzeug==0.16.0
 
 ### Screenshot
 ![image](https://user-images.githubusercontent.com/73974236/98271396-dd349e00-1fca-11eb-96a0-fe61fdd2e691.PNG)
+![image](https://user-images.githubusercontent.com/73974236/98271643-1bca5880-1fcb-11eb-86cd-cec8ba04acbf.PNG)
+![image](https://user-images.githubusercontent.com/73974236/98271675-24bb2a00-1fcb-11eb-8f4a-65784ed3d2b1.PNG)
