@@ -29,7 +29,4 @@ urllib3==1.25.6
 Werkzeug==0.16.0
 
 ### Screenshot
-<p align="center">
-  <img src="![fw1](https://user-images.githubusercontent.com/73974236/98271396-dd349e00-1fca-11eb-96a0-fe61fdd2e691.PNG)
-" width="350" alt="accessibility text">
-</p>
+![image](https://user-images.githubusercontent.com/73974236/98271396-dd349e00-1fca-11eb-96a0-fe61fdd2e691.PNG)
