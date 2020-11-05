@@ -30,5 +30,6 @@ Werkzeug==0.16.0
 
 ### Screenshot
 <p align="center">
-  <img src="https://drive.google.com/file/d/1NCglD06F2sJcTYk3LY7D5oTElDSL7jxe/view?usp=sharing" width="350" alt="accessibility text">
+  <img src="![fw1](https://user-images.githubusercontent.com/73974236/98271396-dd349e00-1fca-11eb-96a0-fe61fdd2e691.PNG)
+" width="350" alt="accessibility text">
 </p>
