@@ -29,4 +29,6 @@ urllib3==1.25.6
 Werkzeug==0.16.0
 
 ### Screenshot
-![alt text](https://drive.google.com/file/d/1NCglD06F2sJcTYk3LY7D5oTElDSL7jxe/view?usp=sharing)
+<p align="center">
+  <img src="https://drive.google.com/file/d/1NCglD06F2sJcTYk3LY7D5oTElDSL7jxe/view?usp=sharing" width="350" alt="accessibility text">
+</p>
